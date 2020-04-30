@@ -1,0 +1,59 @@
+.mainbox{
+    background-color: black;
+    width: 100%;
+    margin: auto;
+}
+
+.menu{
+    height: 50px;
+    text-align: center;
+    background-color: seagreen;
+}
+
+.leftside{
+    background-color: navajowhite;
+    width: 15%;
+    height: 800px;
+    float: left;
+}
+
+.rightside{
+    background-color: navajowhite;
+    width: 15%;
+    height: 800px;
+    float: left;
+}
+
+.main{
+    background-color: rosybrown;
+    width: 70%;
+    height: 800px;
+    float: left;
+}
+
+.footer{
+    background-color: seagreen;
+    height: auto;
+    width: 100%;
+}
+
+.menu>ul>li{
+    display: inline;
+    padding: 10px 100px 25px 65px;
+    background-color: darkgrey;
+    position: relative;
+    top: 8px;
+    font-family: Tahoma, serif;
+    font-size: 15px;
+}
+
+.menu>li>a{
+   text-decoration: none;
+    position: center;
+    color: #2a2730;
+}
+
+.gallery{
+    max-width: 250px;
+    max-height: 250px;
+}
