@@ -7,18 +7,18 @@
 .menu{
     height: 50px;
     text-align: center;
-    background-color: seagreen;
+    background-color: rosybrown;
 }
 
 .leftside{
-    background-color: navajowhite;
+    background-color: mistyrose;
     width: 15%;
     height: 800px;
     float: left;
 }
 
 .rightside{
-    background-color: navajowhite;
+    background-color: mistyrose;
     width: 15%;
     height: 800px;
     float: left;
@@ -32,7 +32,7 @@
 }
 
 .footer{
-    background-color: seagreen;
+    background-color: rosybrown;
     height: auto;
     width: 100%;
 }
@@ -40,7 +40,7 @@
 .menu>ul>li{
     display: inline;
     padding: 10px 100px 25px 65px;
-    background-color: darkgrey;
+    background-color: mistyrose;
     position: relative;
     top: 8px;
     font-family: Tahoma, serif;
